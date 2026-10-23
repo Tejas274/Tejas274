@@ -33,14 +33,6 @@ Right now I'm:
 - 5+ product launches led end to end
 - 70% of hedge fund report delivery automated at 7Park Data
 
-### Side projects
-
-**[claude-mods](https://github.com/Tejas274/claude-mods)**: open source plugins for Claude Code. Two so far:
-- **usage-radar**: live bar above the prompt with model, tokens, cost, context and your 5h/weekly limits. `/radar` opens a per-agent cost panel with a session budget and burn-rate forecast.
-- **turn-receipt**: prints a receipt when a job finishes (agents, tools, slowest step, files changed, cache hits, total cost).
-
-Install with `/plugin install usage-radar --marketplace Tejas274/claude-mods`. Issues and PRs welcome.
-
 ### Tools I use
 
 **Pipelines**<br/>
@@ -60,7 +52,7 @@ Install with `/plugin install usage-radar --marketplace Tejas274/claude-mods`. I
 - **REBA** (2026 - now): Senior Data Engineer, after REBA acquired Markerr
 - **Markerr** (2021 - 2026): Senior Data Engineer, founding team
 - **7Park Data** (2020 - 2021): Data Engineer. Pipelines on Databricks, mentored engineers, led a 6 person offshore team. 7Park was acquired by Vista.
-- **7Park Data** (2017 - 2019): Software Engineer. Ran all customer report delivery by myself for about 2 years, plus Django/Flask services and data QA.
+- **7Park Data** (2017 - 2019): Software Engineer. Owned customer report delivery on my own for about 2 years and automated it, so reports went out with no manual work. Also built Django/Flask services and data QA.
 
 MS in Computer Science from University at Albany (SUNY), BTech in CS from Ganpat University.
 
@@ -71,7 +63,7 @@ If I'm doing something more than once, I automate it and spend the time on what 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejas274&show_icons=true&hide_rank=true&hide_border=true&bg_color=0b1220&title_color=38bdf8&icon_color=34d399&text_color=cbd5e1" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tejas274&show_icons=true&hide_border=true&bg_color=0b1220&title_color=38bdf8&icon_color=34d399&text_color=cbd5e1" height="160" />
   <img src="https://streak-stats.demolab.com?user=Tejas274&hide_border=true&background=0b1220&ring=38bdf8&fire=34d399&currStreakLabel=38bdf8&sideLabels=cbd5e1&dates=64748b&currStreakNum=f8fafc&sideNums=f8fafc" height="160" />
 </p>
 
