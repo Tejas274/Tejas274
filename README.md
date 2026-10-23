@@ -11,7 +11,7 @@
   <a href="mailto:shahtejas274@gmail.com"><img src="https://img.shields.io/badge/Email-shahtejas274-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Based%20in-Jersey%20City%2C%20NJ-334155?style=flat-square" />
   <img src="https://img.shields.io/github/followers/Tejas274?style=flat-square&label=Followers&color=34d399" />
-  <img src="https://komarev.com/ghpvc/?username=Tejas274&style=flat-square&color=38bdf8&label=Profile+views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Tejas274.Tejas274&left_text=Profile%20views&left_color=%23555&right_color=%2338bdf8" />
 </p>
 
 ---
@@ -65,10 +65,6 @@ If I'm doing something more than once, I automate it and spend the time on what 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tejas274&show_icons=true&hide_border=true&bg_color=0b1220&title_color=38bdf8&icon_color=34d399&text_color=cbd5e1" height="160" />
   <img src="https://streak-stats.demolab.com?user=Tejas274&hide_border=true&background=0b1220&ring=38bdf8&fire=34d399&currStreakLabel=38bdf8&sideLabels=cbd5e1&dates=64748b&currStreakNum=f8fafc&sideNums=f8fafc" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas274&bg_color=0b1220&color=cbd5e1&title_color=38bdf8&line=38bdf8&point=34d399&area=true&area_color=38bdf8&hide_border=true&custom_title=Commit%20activity" width="100%" alt="Commit activity graph" />
 </p>
 
 <p align="center">
