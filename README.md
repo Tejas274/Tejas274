@@ -62,7 +62,7 @@ If I'm doing something more than once, I automate it and spend the time on what 
 
 ### Outside of work
 
-- 🎭 Did theatre back in India
+- 🎭 Did street plays (nukkad natak) back in India
 - 🏋️ Gave CrossFit a real try
 - 🎲 Big on board games, always up for a game night
 - ☕ Cafe hopping whenever I find a new spot
