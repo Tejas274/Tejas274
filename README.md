@@ -33,6 +33,14 @@ Right now I'm:
 - 5+ product launches led end to end
 - 70% of hedge fund report delivery automated at 7Park Data
 
+### Side projects
+
+**[claude-mods](https://github.com/Tejas274/claude-mods)**: open source plugins for Claude Code. Two so far:
+- **usage-radar**: live bar above the prompt with model, tokens, cost, context and your 5h/weekly limits. `/radar` opens a per-agent cost panel with a session budget and burn-rate forecast.
+- **turn-receipt**: prints a receipt when a job finishes (agents, tools, slowest step, files changed, cache hits, total cost).
+
+Install with `/plugin install usage-radar --marketplace Tejas274/claude-mods`. Issues and PRs welcome.
+
 ### Tools I use
 
 **Pipelines**<br/>
@@ -63,7 +71,7 @@ If I'm doing something more than once, I automate it and spend the time on what 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejas274&show_icons=true&hide_border=true&bg_color=0b1220&title_color=38bdf8&icon_color=34d399&text_color=cbd5e1" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tejas274&show_icons=true&hide_rank=true&hide_border=true&bg_color=0b1220&title_color=38bdf8&icon_color=34d399&text_color=cbd5e1" height="160" />
   <img src="https://streak-stats.demolab.com?user=Tejas274&hide_border=true&background=0b1220&ring=38bdf8&fire=34d399&currStreakLabel=38bdf8&sideLabels=cbd5e1&dates=64748b&currStreakNum=f8fafc&sideNums=f8fafc" height="160" />
 </p>
 
