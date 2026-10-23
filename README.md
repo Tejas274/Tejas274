@@ -49,10 +49,12 @@ Right now I'm:
 
 ### Where I've worked
 
-- **REBA** (2026 - now): Senior Data Engineer, after REBA acquired Markerr
+- **REBA** (2026 - now): Senior Data Engineer, after REBA acquired Markerr. REBA is now backed by growth equity firm PSG.
 - **Markerr** (2021 - 2026): Senior Data Engineer, founding team
 - **7Park Data** (2020 - 2021): Data Engineer. Pipelines on Databricks, mentored engineers, led a 6 person offshore team. 7Park was acquired by Vista.
 - **7Park Data** (2017 - 2019): Software Engineer. Owned customer report delivery on my own for about 2 years and automated it, so reports went out with no manual work. Also built Django/Flask services and data QA.
+
+Fun fact: every company I join ends up getting bought. Vista Equity Partners acquired 7Park Data, REBA acquired Markerr, and then PSG invested in REBA. Hiring me might be a good exit strategy 😄
 
 MS in Computer Science from University at Albany (SUNY), BTech in CS from Ganpat University.
 
